@@ -1,4 +1,4 @@
-# Materials for Functional Programming course at Saint-Petersberg Univercity
+# Materials for Functional Programming course at Saint-Petersberg University
 
 ## Lab 1 - Parallel Social Media Parser
 In order to work you should place API keys in "config.ini" file
